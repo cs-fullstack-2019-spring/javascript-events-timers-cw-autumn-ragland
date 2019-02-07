@@ -1,3 +1,7 @@
+
+### POINTS: 2
+### KEY: Excellent work!
+
 # JavaScript: Additional events, timers, add attributes
 
 ### Exercise 1:
